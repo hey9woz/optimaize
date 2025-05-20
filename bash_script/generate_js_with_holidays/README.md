@@ -12,7 +12,7 @@ While currently tailored for the freelance agent platform Levtech Freelance, it 
    Save the script and make it executable:
    ```bash
    chmod +x generate_js_with_holidays.sh
-````
+   ```
 
 2. **Run the Script**
    Execute the script, passing the year and month (YYYYMM) as an argument:
