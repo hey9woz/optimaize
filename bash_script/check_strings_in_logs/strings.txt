@@ -1,0 +1,4 @@
+Error
+Timeout
+Connection refused
+User login failure
