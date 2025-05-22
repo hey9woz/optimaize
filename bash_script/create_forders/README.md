@@ -11,7 +11,7 @@ After creation, it displays a list of all created folders.
    Save the script to a directory of your choice and make it executable:
    ```bash
    chmod +x create_folders.sh
-````
+   ```
 
 2. **Run the Script**
    Execute the script, passing the base directory path as an argument:
